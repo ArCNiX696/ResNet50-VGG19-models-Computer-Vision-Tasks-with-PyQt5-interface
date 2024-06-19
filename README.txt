@@ -20,9 +20,11 @@ Additional Features:
 
 1.Model Structures and Training Graphs: Use the provided buttons in the interface to view the structures of the VGG19 and ResNet50 models and their training graphs.
 
+Note: The model should be trained by the user.
+ 
 ### Required Software and Versions
 - **Python**: `3.11.5`
-- **PyTorch**: `2.1.0+cu118`
+- ** PyTorch **: `2.1.0+cu118`
 - **CUDA**: `11.7`
 
 Conclusion
